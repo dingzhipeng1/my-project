@@ -518,7 +518,7 @@ export default {
           }
 
           if(new  Date().getMinutes()=="53"&&new  Date().getHours()=="14") {
-              this.voiceArr.push("该砸盘了,该砸盘了,该砸盘了");
+              this.voiceArr.push("该砸盘了,该砸盘了,该砸盘了,该砸盘了");
           }
           this.playVoice()
       }, 4500))
